@@ -1,0 +1,57 @@
+Endpoints:
+    http://localhost:8080/api/products
+
+Limit Param:
+    http://localhost:8080/api/products?=1
+
+Products:
+    {
+        "title": "Product 1",
+        "description": "This is the product 1",
+        "price": 300,
+        "thumbnail": [],
+        "code": "ASD121",
+        "stock": 50,
+        "status": true,
+        "category": "Shoes"
+    }
+    {
+        "title": "Product 2",
+        "description": "This is the product 2",
+        "price": 200,
+        "thumbnail": [],
+        "code": "ASD122",
+        "stock": 50,
+        "status": true,
+        "category": "Trousers"
+    }
+    {
+        "title": "Product 3",
+        "description": "This is the product 3",
+        "price": 100,
+        "thumbnail": [],
+        "code": "ASD123",
+        "stock": 50,
+        "status": true,
+        "category": "T-shirt"
+    }
+    {
+        "title": "Product 4",
+        "description": "This is the product 4",
+        "price": 3000,
+        "thumbnail": [],
+        "code": "ASD124",
+        "stock": 50,
+        "status": true,
+        "category": "Suit"
+    }
+    {
+        "title": "Product 5",
+        "description": "This is the product 5",
+        "price": 500,
+        "thumbnail": [],
+        "code": "ASD125",
+        "stock": 50,
+        "status": true,
+        "category": "Jacket"
+    }
