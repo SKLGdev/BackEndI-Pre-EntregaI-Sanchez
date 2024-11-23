@@ -1,13 +1,1 @@
-[
-    {
-        "id": "660f095c-4f9f-4f0c-a888-3f8e8365f413",
-        "title": "Product 1",
-        "description": "This is the product 1",
-        "price": 500,
-        "thumbnail": [],
-        "code": "ASD126",
-        "stock": 50,
-        "status": true,
-        "category": "Shoes"
-    }
-]
+[]
